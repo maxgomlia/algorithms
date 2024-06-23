@@ -1,4 +1,4 @@
-package org.crypto.algo;
+package org.max.graph;
 
 import org.crypto.graph.Graph;
 import org.junit.jupiter.api.BeforeEach;
